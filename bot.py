@@ -25,7 +25,7 @@ class info(StatesGroup):
   rasst = State()
 
 # bot init
-bot = Bot(token='5957645814:AAEpBGnjlDNSZp_WjdLHRU76SaDz7m1DixI )
+bot = Bot(token='5957645814:AAEpBGnjlDNSZp_WjdLHRU76SaDz7m1DixI')
 dp = Dispatcher(bot)
 
 # datebase
